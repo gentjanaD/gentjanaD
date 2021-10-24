@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a web platform focused on bringing developers together to collaborate together. [Git Social](https://github.com/Git-Socials)
+### 🔭 I’m currently working on a web platform focused on bringing developers together to collaborate together. [Git Social](https://github.com/Git-Socials)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gentademnushaj)
 -->
