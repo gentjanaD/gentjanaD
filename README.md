@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Genta!
-A Graphic Designer turned Software Developer based in London, UK. <img align="right" alt="illustration of web developer with laptop" src="./images/GentaD2.gif" width="500" height="auto" />
+A Graphic Designer turned Software Developer based in London, UK. <img align="right" alt="illustration of web developer with laptop" src="./images/GentaD2.gif" width="400" height="auto" />
 </br>
 ### Favorite Technologies
 
