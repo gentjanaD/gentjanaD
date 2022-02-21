@@ -22,7 +22,7 @@ A Graphic Designer turned Software Developer based in London, UK. <img align="ri
 </br>
 
 
-### Design Tech
+### Design Technologies
 
 [<img align="left" alt="aftereffects logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" />][aftereffects]
 [<img align="left" alt="figma logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"  height="37"/>][figma]
