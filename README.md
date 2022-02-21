@@ -1,13 +1,7 @@
 ### Hi there 👋 I'm Genta!
-A Graphic Designer turned Software Developer based in London, UK. <img align="right" alt="illustration of web developer with laptop" src="./images/GentaD.gif" width="400" height="auto" />
+A Graphic Designer turned Software Developer based in London, UK. <img align="right" alt="illustration of web developer with laptop" src="./images/GentaD2.gif" width="500" height="auto" />
 </br>
-
-<<<<<<< HEAD
-Front End Developer with a focus on React.
-<img align="right" alt="illustration of web developer with laptop" src="./images/GentaD2.gif" width="500" height="340" />
-=======
 ### Favorite Technologies
->>>>>>> c70f9e1c3c32a27a14e40f509ccf85810eadd8fd
 
 [<img align="left" alt="typescript logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>][javascript]
 [<img align="left" alt="react native logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />][react]
