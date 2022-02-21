@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Genta!
-A Graphic Designer turned Software Developer based in London, UK. <img align="right" alt="illustration of web developer with laptop" src="./images/GentaD2.gif" width="400" height="auto" />
+A Graphic Designer turned Software Developer based in London, UK.
 </br>
+
+<img align="right" alt="illustration of web developer with laptop" src="./images/GentaD2.gif" width="400" height="auto" />
+
 ### Favorite Technologies
 
 [<img align="left" alt="typescript logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>][javascript]
