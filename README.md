@@ -23,7 +23,6 @@ A Graphic Designer turned Software Developer based in London, UK. </br>
 [photoshop]: https://en.wikipedia.org/wiki/Adobe_Photoshop
 
 </br>
-</br>
 
 ### Design Technologies
 
